@@ -15,4 +15,4 @@ I am a software developer with expertise in JavaScript, Python, SQL, and MongoDB
 + GitHub: https://github.com/javashrimp
 
 ###### Fun Facts 🔆
-I love sports 🏈, adventure 🏄‍♂️, gaming 🎮
+I love sports 🏈. adventure 🏄‍♂️. gaming 🎮
