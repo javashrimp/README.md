@@ -5,7 +5,7 @@ I am a software developer with expertise in JavaScript, Python, SQL, and MongoDB
 
 #### Skills 💻
 + JavaScript (Node.js, React.js, React-Native)
-+ Python 
++ Python (NumPY, Pandas)
 + SQL (MySQL, PostgreSQL, SQLite)
 + MongoDB (Mongoose, Atlas)
 + Linux
